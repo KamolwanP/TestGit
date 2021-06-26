@@ -7,4 +7,3 @@ e = 8
 print(c)
 print(a)
 print(b)
-
