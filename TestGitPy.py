@@ -3,3 +3,4 @@ a = 1
 c = 0
 print(c)
 print(a)
+print(b)
